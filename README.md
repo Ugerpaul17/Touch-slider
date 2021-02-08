@@ -5,6 +5,6 @@ simple full screen touch slider
 ## Technologies 
 * Vanilla JavaScript 
 * HTML5
-*CSS3
+* CSS3
 
 [Demo here]()
