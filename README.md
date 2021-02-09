@@ -7,4 +7,4 @@ simple full screen touch slider
 * HTML5
 * CSS3
 
-[Demo here]()
+[Demo here](https://one-slider.netlify.app/)
